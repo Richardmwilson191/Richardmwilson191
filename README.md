@@ -4,9 +4,9 @@
 
 
 	
-## <picture><img src = "https://github.com/Richardmwilson191/Richardmwilson191/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/Richardmwilson191/Richardmwilson191/blob/main/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/Richardmwilson191/Richardmwilson191/guy_coding.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/Richardmwilson191/Richardmwilson191/blob/main/guy_coding.gif?raw=true" width = 250px></picture>
 
 <br><br>
 
@@ -18,7 +18,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block"><picture> <img src="https://github.com/Richardmwilson191/Richardmwilson191/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block"><picture> <img src="https://github.com/Richardmwilson191/Richardmwilson191/blob/main/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect With Me🤝</h2></summary>
   </ul>
 </div>
 
